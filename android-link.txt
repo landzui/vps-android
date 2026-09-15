@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://realized-constantly-hebrew-illustration.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://aurora-opposition-regarding-racing.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-15 18:47:59 UTC
+Created   : 2026-09-15 22:44:24 UTC
 =======================================================
