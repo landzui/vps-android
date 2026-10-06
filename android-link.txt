@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pop-synthetic-listed-florist.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://leaf-endif-technologies-exemption.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-06 11:47:45 UTC
+Created   : 2026-10-06 20:05:48 UTC
 =======================================================
