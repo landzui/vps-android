@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://gcc-favourite-texts-mouse.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://lone-washing-blind-caroline.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-06 23:38:43 UTC
+Created   : 2026-10-07 03:30:39 UTC
 =======================================================
