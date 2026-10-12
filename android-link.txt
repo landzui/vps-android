@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://skills-describing-stickers-kings.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://lamp-decision-tend-coupons.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-12 03:29:29 UTC
+Created   : 2026-10-12 12:46:22 UTC
 =======================================================
